@@ -27,13 +27,6 @@ const App = () => {
     );
 };
 
-const Home = () => {
-    return (
-        <div>
-            <h2>Welcome to Porky Phrases! Oink Oink Piggy!</h2>
-            <p>Select a category from the navigation bar to get started.</p>
-        </div>
-    );
-};
+
 
 export default App;
