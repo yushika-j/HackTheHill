@@ -1,0 +1,21 @@
+.books-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.books-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.books-item {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #28a745;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.books-item h3 {
+    margin: 0;
+}

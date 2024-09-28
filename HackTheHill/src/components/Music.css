@@ -1,0 +1,21 @@
+.music-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.music-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.music-item {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.music-item h3 {
+    margin: 0;
+}
