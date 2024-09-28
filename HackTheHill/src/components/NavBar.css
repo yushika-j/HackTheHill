@@ -2,19 +2,19 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #007bff;
+  background-color: #8a2156;
   padding: 15px 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-  transition: background-color 0.3s, box-shadow 0.3s; /* Added transition */
+  transition: background-color 0.3s, box-shadow 0.3s; 
 }
 
 .navbar:hover {
-  background-color: #0056b3; /* Darker shade on hover */
+  background-color: #e25899; 
 }
 
 .navbar h1 {
   color: white;
-  font-size: 26px; /* Slightly larger font size */
+  font-size: 26px; 
   margin: 0;
 }
 
