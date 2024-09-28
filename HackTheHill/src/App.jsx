@@ -30,7 +30,7 @@ const App = () => {
 const Home = () => {
     return (
         <div>
-            <h2>Welcome to Language Learner!</h2>
+            <h2>Welcome to Porky Phrases!</h2>
             <p>Select a category from the navigation bar to get started.</p>
         </div>
     );
